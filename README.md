@@ -33,12 +33,11 @@ Thanks for their great work!
 ## Citation
 If you find our framework useful in your research, please consider citing:
 ```
-@incollection{zhang2023dcnet,
-  title={DCNet: Weakly Supervised Saliency Guided Dual Coding Network for Visual Sentiment Recognition},
-  author={Zhang, Xinyue and Xiang, Jing and Zhang, Hanxiu and Wu, Chunwei and Wang, Hailing and Cao, Guitao},
-  booktitle={ECAI 2023},
-  pages={3050--3057},
-  year={2023},
-  publisher={IOS Press}
-}
+@inproceedings{zhang2023dcnet, 
+title = {DCNet: Weakly Supervised Saliency Guided Dual Coding Network for Visual Sentiment Recognition}, 
+author = {Zhang, Xinyue and Xiang, Jing and Zhang, Hanxiu and Wu, Chunwei and Wang, Hailing and Cao, Guitao}, 
+booktitle={26th European Conference on Artificial Intelligence}, 
+pages = {3050 - 3057}, 
+year = {2023}}
+
 ```
